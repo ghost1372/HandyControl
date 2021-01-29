@@ -7,7 +7,7 @@
         Background="{DynamicResource RegionBrush}"
         CornerRadius="4">
     <hc:TransitioningContentControl>
-       <StackPanel Margin="32">
+        <StackPanel Margin="32">
             <hc:GifImage Width="400" Height="300">
                 <hc:GifImage.Source>
                     <BitmapImage UriSource="/HandyControlDemo;component/Resources/Img/under_construction.gif"/>
